@@ -1,9 +1,0 @@
-The file apollo_data.csv contains anonymized data of COVID-19 hospital patients and contains the following variables:
-
-age - an integer indicating the age of the primary beneficiary (excluding those above 64 years, since they are generally covered by the government)
-sex - the policy holder's gender, either male or female
-smoker - 'yes' or 'no' depending on whether the insured regularly smokes tobacco
-region - beneficiary's place of residence in Delhi, divided into four geographic regions - northeast, southeast, southwest, or northwest
-viral load - the amount of virus in an infected person's blood
-severity level - an integer indicating how severe the patient is
-hospitalization charges - individual medical costs billed to health insurance
