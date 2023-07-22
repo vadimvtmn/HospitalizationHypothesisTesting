@@ -1,4 +1,4 @@
-# HospitalizationHypothesisTesting
+# Hospitalization Hypothesis Testing
 This project represents analytics research and hypothesis testing of COVID injured patients of Apollo Hospital.
 
 Main goal of this analysis is to provide answers to the following questions:
