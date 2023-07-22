@@ -6,6 +6,6 @@ Main goal of this analysis is to provide answers to the following questions:
 2. How well some factors like viral load, smoking, and severity level describe the hospitalization charges;
 
 
-Thech used:
+Tech used:
  - Python: NumPy, Pandas, SciPy, Statsmodels, Matplotlib, Seaborn
  - Statistics: T-Test, Multi-factors ANOVA, Regression, Tukey HSD, Shapiro-Wilk, Levene's Test
